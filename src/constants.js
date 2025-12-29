@@ -39,8 +39,8 @@ export const PORTFOLIO_DATA = {
     },
     {
       id: 3,
-      title: "AI apps",
-      description: "Devloped AI apps bby using online AI apps by this I can get to know how to give Prompt to AI and I will develop the apps in less time",
+      title: "AI web apps",
+      description: "Devloped AI apps by using online AI apps by this I can get to know how to give Prompt to AI and I will develop the apps in less time",
       tech: ["React", "Chart.js", "Node.js","HTML"],
       link: "https://example.com",
       github: "https://github.com/jahnavikoniki07-stack/volg"
